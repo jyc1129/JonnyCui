@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Remix
 - 🤝 I’m keen to collaborate on any fun projects 
 - 📫 How to reach me jonnycui@outlook.com
+- 👉 connect me on linkedin: linkedin.com/in/jonny-cui
 
 <!---
 JonnyCui/JonnyCui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
